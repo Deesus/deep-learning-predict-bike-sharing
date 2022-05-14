@@ -13,6 +13,6 @@ jupyter notebook Your_first_neural_network
 
 
 ### License:
-Copyright 2017 Dee Reddy. BSD-2 License.
+Copyright 2017 Deepankara Reddy. BSD-2 License.
 
 Bike data provided by [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset).
